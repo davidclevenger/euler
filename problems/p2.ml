@@ -1,3 +1,5 @@
+(* problem 2 - author: davidclevenger *)
+
 let solution =
     let a = ref 1
     and b = ref 1

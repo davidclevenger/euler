@@ -1,3 +1,5 @@
+(* problem 4 - author: davidclevenger *)
+
 open Base;;
 
 let is_palindrome s = String.equal s (String.rev s);;
